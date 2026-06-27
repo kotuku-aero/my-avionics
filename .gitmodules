@@ -1,0 +1,4 @@
+[submodule "diy-efis"]
+	path = diy-efis
+	url = https://github.com/kotuku-aero/diy-efis.git
+	branch = main
